@@ -1,2 +1,2 @@
 # Data Analytics
-Repositório criado para guardar códigos de Análise de Dados em Python.
+Repositório criado para guardar mini projeto de Análise de Dados em Python.
